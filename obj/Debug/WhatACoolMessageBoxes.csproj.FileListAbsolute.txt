@@ -1,0 +1,10 @@
+C:\codigoDI\WhatACoolMessageBoxes\WhatACoolMessageBoxes\bin\Debug\WhatACoolMessageBoxes.exe.config
+C:\codigoDI\WhatACoolMessageBoxes\WhatACoolMessageBoxes\bin\Debug\WhatACoolMessageBoxes.exe
+C:\codigoDI\WhatACoolMessageBoxes\WhatACoolMessageBoxes\bin\Debug\WhatACoolMessageBoxes.pdb
+C:\codigoDI\WhatACoolMessageBoxes\WhatACoolMessageBoxes\obj\Debug\WhatACoolMessageBoxes.csproj.AssemblyReference.cache
+C:\codigoDI\WhatACoolMessageBoxes\WhatACoolMessageBoxes\obj\Debug\WhatACoolMessageBoxes.Properties.Resources.resources
+C:\codigoDI\WhatACoolMessageBoxes\WhatACoolMessageBoxes\obj\Debug\WhatACoolMessageBoxes.csproj.GenerateResource.cache
+C:\codigoDI\WhatACoolMessageBoxes\WhatACoolMessageBoxes\obj\Debug\WhatACoolMessageBoxes.csproj.CoreCompileInputs.cache
+C:\codigoDI\WhatACoolMessageBoxes\WhatACoolMessageBoxes\obj\Debug\WhatACoolMessageBoxes.exe
+C:\codigoDI\WhatACoolMessageBoxes\WhatACoolMessageBoxes\obj\Debug\WhatACoolMessageBoxes.pdb
+C:\codigoDI\WhatACoolMessageBoxes\WhatACoolMessageBoxes\obj\Debug\WhatACoolMessageBoxes.mainWindow.resources
